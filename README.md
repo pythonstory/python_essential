@@ -1,5 +1,6 @@
 # Python Essential Grammar in Use
 파이썬의 기본적인 문법 내용을 예제 코드로 정리한다.
+* 파이썬 3 버전을 기준으로 한다.
 * 표준 라이브러리 또는 서드파티 라이브러리는 다루지 않는다.
 
 ## 목차
@@ -26,6 +27,8 @@
 1. 파일처리
 
 ## 참고문헌
+* 점프 투 파이썬
+* 뇌를 자극하는 파이썬3
 * Learning Python, 5th
 * Python Cookbook, 3rd
 * Effective Python
