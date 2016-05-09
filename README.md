@@ -27,9 +27,10 @@
 1. 파일처리
 
 ## 참고문헌
-* 점프 투 파이썬
-* 뇌를 자극하는 파이썬3
-* Learning Python, 5th
-* Python Cookbook, 3rd
-* Effective Python
-* Introduction to Programming using Python
+* [처음 시작하는 파이썬(Introducing Python)](http://www.hanbit.co.kr/store/books/look.php?p_code=B2827459900)
+* [파이썬 바이블3](http://freelec.co.kr/book/catalogue_view.asp?UID=134)
+* [점프 투 파이썬](https://wikidocs.net/book/1)
+* [뇌를 자극하는 파이썬3](http://www.hanbit.co.kr/store/books/look.php?p_code=B7747860288)
+* [파이썬 코딩의 기술(Effective Python)](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001430)
+* [Python Cookbook, 3판](http://www.infinitybooks.co.kr/book/all_bookview.php?idx=125&part_idx=26&goods_data=aWR4PTEyNSZzdGFydFBhZ2U9MCZwYXJ0X2lkeD0yNiZzZWFyY2g9xsTAzL3j||)
+* [파이썬(Introduction to Programming using Python)](http://www.booksr.co.kr/html/book/book.asp?seq=696897)
